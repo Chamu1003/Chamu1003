@@ -2,7 +2,7 @@
 <h3 align="center">Crafting Tomorrow's Digital Landscape: A Journey in Information System Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamu1003&label=Profile%20views&color=0e75b6&style=flat" alt="chamu1003" /> </p>
-### about me
+
 
 - 👩‍🎓 I’m currently Studying on **SLIIT**
 
